@@ -216,7 +216,7 @@ motion_mirroring = Vector2(1150, 0)
 
 [node name="Bg" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer"]
 z_index = -1
-position = Vector2(157, 307)
+position = Vector2(171, 200)
 scale = Vector2(3.07552, 5.17188)
 texture = ExtResource("1_a12cs")
 
@@ -268,7 +268,7 @@ motion_scale = Vector2(0.6, 0.6)
 motion_mirroring = Vector2(1200, 0)
 
 [node name="Cloud" type="Sprite2D" parent="ParallaxBackground/ParallaxLayer3"]
-position = Vector2(257, 377)
+position = Vector2(282, 239)
 scale = Vector2(4, 4.324)
 texture = SubResource("CompressedTexture2D_d1lya")
 
